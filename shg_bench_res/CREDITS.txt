@@ -1,0 +1,47 @@
+Image sources
+
+Photography and texture maps from Poly Haven, released under CC0 1.0.
+https://polyhaven.com/license
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Aerial Grass Rock — Rob Tuytel
+https://polyhaven.com/a/aerial_grass_rock
+
+Approaching Storm — Greg Zaal
+https://polyhaven.com/a/approaching_storm
+
+Grass Ground — Charlotte Baglioni
+https://polyhaven.com/a/grass_ground
+
+Grass Path 2 — Rob Tuytel
+https://polyhaven.com/a/grass_path_2
+
+Grass Path 3 — Rob Tuytel
+https://polyhaven.com/a/grass_path_3
+
+Leafy Grass — Charlotte Baglioni
+https://polyhaven.com/a/leafy_grass
+
+Lichen Rock — Rico Cilliers
+https://polyhaven.com/a/lichen_rock
+
+Quarry Cloudy — Dimitrios Savva, Jarod Guest
+https://polyhaven.com/a/quarry_cloudy
+
+Qwantani Dusk 2 (Pure Sky) — Greg Zaal, Jarod Guest
+https://polyhaven.com/a/qwantani_dusk_2_puresky
+
+Qwantani Moon Noon — Greg Zaal, Jarod Guest
+https://polyhaven.com/a/qwantani_moon_noon
+
+Qwantani Moonrise — Greg Zaal, Jarod Guest
+https://polyhaven.com/a/qwantani_moonrise
+
+Sparse Grass — Amal Kumar
+https://polyhaven.com/a/sparse_grass
+
+The file set includes resized or JPEG-encoded copies, locally tone-mapped
+panoramas, two photographic extracts of Approaching Storm, and a luminance
+image derived from Quarry Cloudy.
+
+Three.js 0.170.0 is included under the MIT License in vendor/LICENSE.txt.

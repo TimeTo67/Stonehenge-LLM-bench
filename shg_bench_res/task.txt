@@ -1,0 +1,11 @@
+Create a photorealistic, real-time Three.js scene of Stonehenge as it stands today in Wiltshire.
+
+It’s night. Strong wind drives light rain across the plain. A bright moon and occasional lightning near the horizon are the only light on the stones. Soft cloud shadows drift across the grass and stone. At the center, a few people warm themselves around a campfire. Make that small circle of warmth feel sheltered amid the storm.
+
+Show the scene in a continuous, medium-wide automatic orbit from above, with the camera aimed 30° below horizontal. Hold the right mouse button and drag horizontally to orbit or vertically to tilt. Scroll the mouse wheel to zoom in or out.
+
+Rules
+- Work from this prompt alone. No follow-up questions, subagents, or additional AI models, including image and 3D generators.
+- Build the geometry yourself. Use only visuals you create during this run or find in ./assets/. No stock assets, ready-made scenes, or previous solutions.
+- No web search or browsing. Network access is allowed only to install libraries and tools. You may render, inspect, and refine your work locally.
+- Submit exactly one self-contained .html file. Embed Three.js and every script, stylesheet, and asset the scene uses
